@@ -1,0 +1,102 @@
+{
+    "Trials": {
+        "Description": "Trial number within the run."
+    },
+    "Runs": {
+        "Description": "Run number within the session."
+    },
+    "Cond_1_200_2_150_HasBeenChangedTo200_150": {
+        "Description": "Condition label: 1 indicates 200 condition, 2 indicates 150 condition."
+    },
+    "order_1_first_2_lastForThisIdPerson_": {
+        "Description": "Order of block presentation for the participant: 1=first, 2=second."
+    },
+    "ProbR": {
+        "Description": "Probability of reward for right choice."
+    },
+    "ID_1_PlayerA_2_playerB_": {
+        "Description": "Participant role: 1=Player A, 2=Player B."
+    },
+    "AnsTimePAS1_rtStage1_playerA___3Seconds": {
+        "Description": "Response time of Player A in Stage 1 (max 3 seconds)."
+    },
+    "AnsTimePBS1": {
+        "Description": "Response time of Player B in Stage 1."
+    },
+    "PAChoS1_1Left_2Right_": {
+        "Description": "Player A's choice in Stage 1: 1=Left, 2=Right."
+    },
+    "PBChoS1": {
+        "Description": "Player B's choice in Stage 1."
+    },
+    "MissingPAS1_0None_": {
+        "Description": "Missing data flag for Player A in Stage 1: 0=None."
+    },
+    "MissingPBS1": {
+        "Description": "Missing data flag for Player B in Stage 1."
+    },
+    "AnsTimePAS2": {
+        "Description": "Response time of Player A in Stage 2."
+    },
+    "AnsTimePBS2": {
+        "Description": "Response time of Player B in Stage 2."
+    },
+    "PAChoS2": {
+        "Description": "Player A's choice in Stage 2."
+    },
+    "PBChoS2": {
+        "Description": "Player B's choice in Stage 2."
+    },
+    "MissingPAS2": {
+        "Description": "Missing data flag for Player A in Stage 2."
+    },
+    "MissingPBS2": {
+        "Description": "Missing data flag for Player B in Stage 2."
+    },
+    "TriOn": {
+        "Description": "Trial onset time."
+    },
+    "DecEndS1": {
+        "Description": "End of decision phase in Stage 1."
+    },
+    "IsiOnS1": {
+        "Description": "ISI (Inter-stimulus interval) onset in Stage 1."
+    },
+    "FbOnS1": {
+        "Description": "Feedback onset in Stage 1."
+    },
+    "DecEndS2": {
+        "Description": "End of decision phase in Stage 2."
+    },
+    "FbOffS2": {
+        "Description": "Feedback offset in Stage 2."
+    },
+    "TriEnd": {
+        "Description": "End of the trial."
+    },
+    "Jitter": {
+        "Description": "Jitter duration added to timing."
+    },
+    "rwPA_rewardToPa_": {
+        "Description": "Reward given to Player A."
+    },
+    "rwPB": {
+        "Description": "Reward given to Player B."
+    },
+    "randa": {
+        "Description": "Randomization parameter A."
+    },
+    "randb": {
+        "Description": "Randomization parameter B."
+    },
+    "onset": {
+        "Description": {
+            "Description": "Time from the beginning of the scan when the event starts, in seconds."
+        }
+    },
+    "duration": {
+        "Description": {
+            "Description": "Duration of the event, in seconds."
+        }
+    }
+}
